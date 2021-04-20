@@ -24,7 +24,7 @@ function preload() {
    img3 = loadImage('https://raw.githubusercontent.com/Mila-TheArtist/art74-portfolio.index.html/main/images/steven-universe-future-117044.jpeg');
    img4 = loadImage('https://raw.githubusercontent.com/Mila-TheArtist/art74-portfolio.index.html/main/images/bh6.jpg');
    img5 = loadImage('https://raw.githubusercontent.com/Mila-TheArtist/art74-portfolio.index.html/main/images/svtfoe.jpg');
-   img6 = loadImage('https://pbs.twimg.com/media/EdtrnDeXkAEMGOp.jpg');
+   img6 = loadImage('https://raw.githubusercontent.com/Mila-TheArtist/art74-portfolio.index.html/main/images/obsidian.jpeg');
    img7 = loadImage('https://bloximages.newyork1.vip.townnews.com/dailynebraskan.com/content/tncms/assets/v3/editorial/e/2e/e2edb00a-9a7d-11e2-b495-0019bb30f31a/515901c97da10.image.jpg?resize=400%2C341');
    img8 = loadImage('https://m.media-amazon.com/images/M/MV5BNTA2NTc5MzQwNV5BMl5BanBnXkFtZTgwOTY2ODI2MjI@._V1_.jpg');
    img9 = loadImage('https://pbs.twimg.com/media/EC7l7dRX4AEQSb6.jpg');
