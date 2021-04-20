@@ -19,7 +19,7 @@ function preload() {
 //  img = loadImage('cat.jpg');  // cat.jpg needs to be next to this .js file
 // you can link to an image on your github account
    img = loadImage('https://raw.githubusercontent.com/Mila-TheArtist/art74-portfolio.index.html/main/images/infinity_train2.jpeg');
-   img1 = loadImage('https://media.comicbook.com/2021/03/it-b4-key-art-1261972.jpeg?auto=webp&width=1280&height=1896&crop=1280:1896,smart');
+   img1 = loadImage('https://raw.githubusercontent.com/Mila-TheArtist/art74-portfolio.index.html/main/images/infinity_train4.jpeg');
    img2 = loadImage('https://m.media-amazon.com/images/M/MV5BMTEzNDc3MDQ2NzNeQTJeQWpwZ15BbWU4MDYzMzUwMDIx._V1_.jpg');
    img3 = loadImage('https://www.tomshw.it/images/images/2020/10/steven-universe-future-117044.jpg');
    img4 = loadImage('https://lh3.googleusercontent.com/a-Q4VsybHHZn29HND2p511xcc5iUtamZtY1NFbjBZL--zLt-ZAEFan0tHFVfRAVwqlSjf2SD5EE4SQ=w1440-ns-nd-rj');
