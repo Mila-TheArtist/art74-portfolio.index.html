@@ -26,8 +26,8 @@ function preload() {
    img5 = loadImage('https://raw.githubusercontent.com/Mila-TheArtist/art74-portfolio.index.html/main/images/svtfoe.jpg');
    img6 = loadImage('https://raw.githubusercontent.com/Mila-TheArtist/art74-portfolio.index.html/main/images/obsidian.jpeg');
    img7 = loadImage('https://raw.githubusercontent.com/Mila-TheArtist/art74-portfolio.index.html/main/images/regular_show.jpg');
-   img8 = loadImage('https://m.media-amazon.com/images/M/MV5BNTA2NTc5MzQwNV5BMl5BanBnXkFtZTgwOTY2ODI2MjI@._V1_.jpg');
-   img9 = loadImage('https://pbs.twimg.com/media/EC7l7dRX4AEQSb6.jpg');
+   img8 = loadImage('https://raw.githubusercontent.com/Mila-TheArtist/art74-portfolio.index.html/main/images/ducktales.jpg');
+   img9 = loadImage('https://raw.githubusercontent.com/Mila-TheArtist/art74-portfolio.index.html/main/images/amphibia.jpeg');
    img0 = loadImage('https://m.media-amazon.com/images/M/MV5BOGQ0MDQyYWMtNjdlYy00ZDAyLWE5YTItMzcyMjllZTA4MTcyXkEyXkFqcGdeQXVyMjEzNTg5Mzk@._V1_.jpg');
 }
 
