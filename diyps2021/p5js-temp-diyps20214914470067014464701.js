@@ -20,10 +20,10 @@ function preload() {
 // you can link to an image on your github account
    img = loadImage('https://raw.githubusercontent.com/Mila-TheArtist/art74-portfolio.index.html/main/images/infinity_train2.jpeg');
    img1 = loadImage('https://raw.githubusercontent.com/Mila-TheArtist/art74-portfolio.index.html/main/images/infinity_train4.jpeg');
-   img2 = loadImage('https://m.media-amazon.com/images/M/MV5BMTEzNDc3MDQ2NzNeQTJeQWpwZ15BbWU4MDYzMzUwMDIx._V1_.jpg');
-   img3 = loadImage('https://www.tomshw.it/images/images/2020/10/steven-universe-future-117044.jpg');
-   img4 = loadImage('https://lh3.googleusercontent.com/a-Q4VsybHHZn29HND2p511xcc5iUtamZtY1NFbjBZL--zLt-ZAEFan0tHFVfRAVwqlSjf2SD5EE4SQ=w1440-ns-nd-rj');
-   img5 = loadImage('https://m.media-amazon.com/images/M/MV5BODBkZWI3MmItMWU2ZC00M2FhLTk1YWQtNjU5YzI0NzI0NmIxXkEyXkFqcGdeQXVyNzA0MTM4NjM@._V1_.jpg');
+   img2 = loadImage('https://raw.githubusercontent.com/Mila-TheArtist/art74-portfolio.index.html/main/images/gf.jpg');
+   img3 = loadImage('https://raw.githubusercontent.com/Mila-TheArtist/art74-portfolio.index.html/main/images/steven-universe-future-117044.jpeg');
+   img4 = loadImage('https://raw.githubusercontent.com/Mila-TheArtist/art74-portfolio.index.html/main/images/bh6.jpg');
+   img5 = loadImage('https://raw.githubusercontent.com/Mila-TheArtist/art74-portfolio.index.html/main/images/svtfoe.jpg');
    img6 = loadImage('https://pbs.twimg.com/media/EdtrnDeXkAEMGOp.jpg');
    img7 = loadImage('https://bloximages.newyork1.vip.townnews.com/dailynebraskan.com/content/tncms/assets/v3/editorial/e/2e/e2edb00a-9a7d-11e2-b495-0019bb30f31a/515901c97da10.image.jpg?resize=400%2C341');
    img8 = loadImage('https://m.media-amazon.com/images/M/MV5BNTA2NTc5MzQwNV5BMl5BanBnXkFtZTgwOTY2ODI2MjI@._V1_.jpg');
